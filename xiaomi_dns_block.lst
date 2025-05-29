@@ -137,6 +137,8 @@ e.ad.xiaomi.com
 emi-cube.ad.xiaomi.com
 emq.xmpush.xiaomi.com
 eu.api.miwifi.com
+eu.global.market.xiaomi.com
+eu-gamecenter.api.intl.miui.com
 extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
 extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
@@ -163,6 +165,7 @@ feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
+find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
 fr-api.xmpush.global.xiaomi.com
@@ -263,6 +266,7 @@ mazu.sec.miui.com
 mbapi.ad.intl.xiaomi.com
 m.bss.pandora.xiaomi.com
 mcc.intl.inf.miui.com
+mcc-intl.inf.miui.com
 media.pre.pandora.xiaomi.com
 meihua.xiaomi.com
 metok.sys.miui.com
@@ -324,6 +328,7 @@ pn.api.micloud.mi.com
 ppurifier.game.xiaomi.com
 preview.bossadmin.pandora.xiaomi.com
 preview.tvboss.pandora.xiaomi.com
+privacy.api.intl.miui.com
 profile.pandora.xiaomi.com
 ptmi.gitv.pandora.xiaomi.com
 pull.mitv.pandora.xiaomi.com
@@ -354,6 +359,7 @@ sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.rus.xiaomi.com
 sdkconfig.ad.xiaomi.com
+sdkconfig.eu.xiaomi.com
 sec-cdn.static.xiaomi.net
 secode2.hd.xiaomi.com
 secure.report.iss.xiaomi.com
@@ -416,6 +422,7 @@ test.new.api.ad.xiaomi.com
 test.track.ad.xiaomi.com
 test.xiaomi.com
 test.zeus.ad.xiaomi.com
+theme.cdn.intl.miui.com
 thm.market.intl.miui.com
 thm.market.intl.xiaomi.com
 thm.market.xiaomi.com
@@ -458,6 +465,7 @@ vip-api.xmpush.global.xiaomi.com
 vip.api.xmpush.global.xiaomi.com
 vip-api.xmpush.xiaomi.com
 vip.api.xmpush.xiaomi.com
+virus-engine.sec.intl.miui.com
 voip.game.xiaomi.com
 wallpaper.cdn.pandora.xiaomi.com
 wallpaper.pandora.xiaomi.com
